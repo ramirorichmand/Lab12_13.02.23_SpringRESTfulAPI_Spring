@@ -22,7 +22,7 @@ First things first, we can use the [Spring Boot Initializr](https://start.spring
 > - Packaging: Jar
 > - Java: 17
 > 
-> Add the dependencies:
+> Dependencies:
 > 
 > - Spring Web
 > - Spring Boot DevTools
