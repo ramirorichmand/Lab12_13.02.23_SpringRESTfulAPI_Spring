@@ -1,7 +1,7 @@
 # Lab 13/02/23 Spring RESTful API
 
 # Task - Names
-In this task I practiced building a Spring Boot app that contains a RESTful API which can accept requests to multiple routes.
+In this task I practiced building a Spring Boot app that contained a RESTful API which accepted requests to multiple routes.
 
 
 - Created a controller which accepts requests made to `http://localhost:8080/greeting`. 
