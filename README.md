@@ -1,6 +1,6 @@
 # Lab 13/02/23 Spring RESTful API
 
-# Task - Names
+## Task - Names
 In this task I practiced building a Spring Boot app that contained a RESTful API which accepted requests to multiple routes.
 
 
