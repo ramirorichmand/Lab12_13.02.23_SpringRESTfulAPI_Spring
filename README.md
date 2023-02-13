@@ -17,8 +17,8 @@ First things first, we can use the [Spring Boot Initializr](https://start.spring
 > 
 > - Project: Maven
 > - Language: Java
-> - Spring Boot Version: 3.0.0
-> - Update "artifact" in the meta-data to "task_01". Add a description if you wish.
+> - Spring Boot Version: 3.0.2
+> - Updated "artifact" in the meta-data to "task_01". 
 > - Packaging: Jar
 > - Java: 17
 > 
