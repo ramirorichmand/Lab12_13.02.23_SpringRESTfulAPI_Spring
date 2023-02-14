@@ -11,7 +11,7 @@ In this task I practiced building a Spring Boot app that contained a RESTful API
   - `timeOfDay`
 - Refactored the controller to use my POJO instead of a string
 
-First things first, we can use the [Spring Boot Initializr](https://start.spring.io/) to boot up a project quickly.
+I used [Spring Boot Initializr](https://start.spring.io/) to boot up a project quickly.
 ​
 ### Applications Used
 > 
